@@ -37,7 +37,12 @@ function printList() {
     });
 }
 
-$("#header").load("https://raw.githubusercontent.com/Sylence/13DT-website-tutorial/main/header.html");
+// Run code when document is ready
+$(document).ready(function () {
+    console.log("ready!");
+    $("#header").load("https://raw.githubusercontent.com/Sylence/13DT-website-tutorial/main/header.html");
+});
+
 
 
 
