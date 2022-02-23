@@ -37,7 +37,7 @@ function printList() {
     });
 }
 
-$("#header").load("header.html");
+$("#header").load("https://raw.githubusercontent.com/Sylence/13DT-website-tutorial/main/header.html?token=GHSAT0AAAAAABR3OVQO7K3TN7NKRXORP42AYQVUEAA");
 
 
 
